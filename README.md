@@ -10,9 +10,9 @@ cover the miner and hide process
 ```
 tor miner
 ```
-./tormd.sh
+./tormd.sh [numOFcpus]
 ```
 normal miner
 ```
-./mine.sh
+./mine.sh [numOFcpus]
 ```
