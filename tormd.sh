@@ -1,5 +1,5 @@
 #!/bin/bash
-DR="wget"
+LDR="wget"
 #Downloader
 CPU=$1
 #cpu usage
